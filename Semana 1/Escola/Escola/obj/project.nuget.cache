@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r05cB9ftseMn6KlVt+aIEKtlqVGk9Pzk4uTCZspF2sWk1MVD9iuvapUJob0NJhA+ujHprjWvJzafA++McdD8Yg==",
+  "dgSpecHash": "2GQiUNejG30ZBqAqxBItW7JKnHmpmIpzRMgGcloeOgRO5oex0wiQU/a+wiUAto3rKinu6c81YA613S0EXIifbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darth\\Documents\\Prog\\Git\\-DEVinHouse-Audaces-M2-Projeto\\Escola\\Escola\\Escola.csproj",
+  "projectFilePath": "C:\\Users\\Darth\\Documents\\Prog\\Git\\-DEVinHouse-Audaces-Modulo-3\\Semana 1\\Escola\\Escola\\Escola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darth\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Darth\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
